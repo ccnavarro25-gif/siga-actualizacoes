@@ -1,4 +1,4 @@
 {
- "dados": "{\"app\":\"SIGA\",\"versao\":\"1.9.8\",\"data\":\"2026-11-05\",\"notas\":[\"A página de entrada mostra em destaque o nome e o logotipo da instituição\",\"No tablet e no telemóvel, o quadro de entrada fica centrado\"],\"exe\":{\"url\":\"https://raw.githubusercontent.com/ccnavarro25-gif/siga-actualizacoes/main/computador/SIGA-Instalar-1.9.8.exe\",\"sha256\":\"2d47615b55901d8017bcf74e706a4d4a9b350b3c9c7dee217ffc616c25985dd3\",\"tamanho\":90931447}}",
- "assinatura": "SFwdVAKaHp0kg68NDqvIZg05SK8e11bHyST+6gwWIGeUSmvdwkHQbj2irlbh9/HFsBWhe0ltpw1XU7trm6NVAw=="
+ "dados": "{\"app\":\"SIGA\",\"versao\":\"1.9.9\",\"data\":\"2026-11-05\",\"notas\":[\"Ao escrever o utilizador na entrada, o cursor já não salta para outro sítio\",\"A actualização automática mostra a barra de progresso e volta a abrir o SIGA sozinha\"],\"exe\":{\"url\":\"https://raw.githubusercontent.com/ccnavarro25-gif/siga-actualizacoes/main/computador/SIGA-Instalar-1.9.9.exe\",\"sha256\":\"8dfbe7316f31d8bf2e593bc5dd0bf52a3e0b6f633edb27fd4ed1c4151cc21b91\",\"tamanho\":90905738}}",
+ "assinatura": "JDPxa48VpBxePW951KTBWfRik3JU3S6lnxN/TFRMGgvrB5HZ2h8qVqsM0PdeaMxpSxqQHXl6ZKHLMbDjnOxeBg=="
 }
