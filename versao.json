@@ -1,4 +1,4 @@
 {
- "dados": "{\"app\":\"SIGA\",\"versao\":\"1.9.7\",\"data\":\"2026-11-05\",\"notas\":[\"Primeira actualização automática do SIGA\",\"O programa mostra o nome CCM Soluções Administrativas no Windows\"],\"exe\":{\"url\":\"https://raw.githubusercontent.com/ccnavarro25-gif/siga-actualizacoes/main/computador/SIGA-Instalar-1.9.7.exe\",\"sha256\":\"a0ebe330ba2361558cb43e18f5ac17e972ecef4c4df8f93df701abbae1f53690\",\"tamanho\":90918035}}",
- "assinatura": "6YqjFF7+O7BAqkv88eXd1qrA+BNApE1Ta8eLDh4Le6VA/4zquOxjizTeo0a6vEu5U+D1Tz8p66k064jNU+ruAQ=="
+ "dados": "{\"app\":\"SIGA\",\"versao\":\"1.9.8\",\"data\":\"2026-11-05\",\"notas\":[\"A página de entrada mostra em destaque o nome e o logotipo da instituição\",\"No tablet e no telemóvel, o quadro de entrada fica centrado\"],\"exe\":{\"url\":\"https://raw.githubusercontent.com/ccnavarro25-gif/siga-actualizacoes/main/computador/SIGA-Instalar-1.9.8.exe\",\"sha256\":\"2d47615b55901d8017bcf74e706a4d4a9b350b3c9c7dee217ffc616c25985dd3\",\"tamanho\":90931447}}",
+ "assinatura": "SFwdVAKaHp0kg68NDqvIZg05SK8e11bHyST+6gwWIGeUSmvdwkHQbj2irlbh9/HFsBWhe0ltpw1XU7trm6NVAw=="
 }
