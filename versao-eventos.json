@@ -1,0 +1,4 @@
+{
+ "dados": "{\"app\":\"SIGA Eventos\",\"versao\":\"1.0.0\",\"data\":\"2026-11-19\",\"notas\":[\"Primeira versão do SIGA Eventos, programa próprio para complexos de eventos\",\"Reservas, espaços, clientes, contratos e pagamentos\",\"Itens do salão com stock, entrega e devolução, e serviços extra\",\"Calendário da página inicial com as reservas do mês\",\"Manual de uso dentro do programa\"],\"exe\":{\"url\":\"https://raw.githubusercontent.com/ccnavarro25-gif/siga-actualizacoes/main/computador/SIGA-Eventos-Instalar-1.0.0.exe\",\"sha256\":\"80d4b247c46d6276b8a100ef0bd94b03a1eb8f6118390827ae41410f0d6a1784\",\"tamanho\":92745884}}",
+ "assinatura": "QPF2TNtWuAPBbaNOnpuOiBqHy09vHJqgWPLNwu5xlWsLMZy3LDO38vOgiRdYwnylHBeo4elyHLXnGUOWPB/TAg=="
+}
