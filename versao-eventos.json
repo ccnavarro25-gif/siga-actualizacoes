@@ -1,4 +1,4 @@
 {
- "dados": "{\"app\":\"SIGA Eventos\",\"versao\":\"1.0.1\",\"data\":\"2026-11-19\",\"notas\":[\"Corrigido: os títulos do ecrã de entrada já não piscam\"],\"exe\":{\"url\":\"https://raw.githubusercontent.com/ccnavarro25-gif/siga-actualizacoes/main/computador/SIGA-Eventos-Instalar-1.0.1.exe\",\"sha256\":\"fa9a2f553a4c876e492fd3c8e94d1f9c523dd76c981f77e0a243b5f726cf1e44\",\"tamanho\":92766889}}",
- "assinatura": "UK2LAw8t4ldTk631Jn06g+LssUtq9dWgKuAuzs0ubtK0uEzjD7q69aKeFi/4pPZVRnFgG0iQYL/fejEIdurOBQ=="
+ "dados": "{\"app\":\"SIGA Eventos\",\"versao\":\"1.0.2\",\"data\":\"2026-11-19\",\"notas\":[\"Orçamentos com pré-reserva: as datas ficam guardadas até ao fim da validade\",\"Sinal e prestações configuráveis, com plano de pagamento em cada reserva\",\"Ficha do evento para a equipa (imprimir ou enviar por WhatsApp)\",\"Aviso antes de entregar o salão com valores em falta\"],\"exe\":{\"url\":\"https://raw.githubusercontent.com/ccnavarro25-gif/siga-actualizacoes/main/computador/SIGA-Eventos-Instalar-1.0.2.exe\",\"sha256\":\"85633eabf2fed97d2613a00ee80b5014450f4c47f3c9ee6de7161b68148ec999\",\"tamanho\":92783089}}",
+ "assinatura": "UzEJD5GPxaA1sXkOosfL/qtvJx+ZyPd7b91MACfjGp0dwqiTl7/jIwZVOI0wMo8KEoWq6NR8kyN/zkHidq17Cg=="
 }
