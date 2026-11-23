@@ -1,4 +1,4 @@
 {
- "dados": "{\"app\":\"SIGA Eventos\",\"versao\":\"1.0.2\",\"data\":\"2026-11-23\",\"notas\":[\"Orçamentos com pré-reserva: as datas ficam guardadas até ao fim da validade\",\"Sinal e prestações configuráveis, com plano de pagamento em cada reserva\",\"Ficha do evento para a equipa (imprimir ou enviar por WhatsApp)\",\"Aviso antes de entregar o salão com valores em falta\"],\"exe\":{\"url\":\"https://raw.githubusercontent.com/ccnavarro25-gif/siga-actualizacoes/main/computador/SIGA-Eventos-Instalar-1.0.2.exe\",\"sha256\":\"85633eabf2fed97d2613a00ee80b5014450f4c47f3c9ee6de7161b68148ec999\",\"tamanho\":92783089}}",
- "assinatura": "ADURDhfPFCa4KG/IsxCfFj/TEouKH2HP0XsvckeD5mjnFx2t5b/RNUAUCh4t2y0YJOPC4WFlmW6xIwfmI+mBDw=="
+ "dados": "{\"app\":\"SIGA Eventos\",\"versao\":\"1.0.3\",\"data\":\"2026-11-23\",\"notas\":[\"12 modelos de recibo com QR para confirmar (Configuração › Modelo do recibo)\",\"Corrigido: a conta criada fica guardada e o programa deixa de pedir uma conta nova ao abrir\"],\"exe\":{\"url\":\"https://raw.githubusercontent.com/ccnavarro25-gif/siga-actualizacoes/main/computador/SIGA-Eventos-Instalar-1.0.3.exe\",\"sha256\":\"5750cdea1210d657a15da063398e7adb14eb4ca901d155d1c46e004d85221064\",\"tamanho\":92785613}}",
+ "assinatura": "kMhO4aVQBG+JikF2TIlml/U0N+tdD7Orqh41jpUoOqllZjh+vMSgqXdBB7CvwSuazDCxLYz3Yy05k6/77OpNCA=="
 }
