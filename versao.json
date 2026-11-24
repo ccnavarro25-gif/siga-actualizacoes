@@ -1,4 +1,4 @@
 {
- "dados": "{\"app\":\"SIGA\",\"versao\":\"2.0.16\",\"data\":\"2026-11-24\",\"notas\":[\"Recibos: pode escolher o nome e o cargo de quem assina (Sistema › Organização)\",\"Página inicial personalizável: mover, trocar de lugar ou esconder os blocos (botão «Personalizar»)\"],\"exe\":{\"url\":\"https://raw.githubusercontent.com/ccnavarro25-gif/siga-actualizacoes/main/computador/SIGA-Instalar-2.0.16.exe\",\"sha256\":\"5511e9c59c74e759a5d8c9684dfc859e3f71d951c5f6dc686b21a10f33152276\",\"tamanho\":94003715}}",
- "assinatura": "1byuTbeunHpISEQ7A9g9sA1ez8D8aeyvEvQ1+ftvD9A8WZisj7UrOUtbx69DJY/MWtaZng+IdGE/4iXO2LmMAg=="
+ "dados": "{\"app\":\"SIGA\",\"versao\":\"2.0.17\",\"data\":\"2026-11-24\",\"notas\":[\"Instalação mais segura: o SIGA já não pode ficar instalado num pen drive ou cartão de memória (se estava, passa para o disco do computador)\",\"Inclui tudo da versão 2.0.16: nome e cargo de quem assina os recibos e página inicial personalizável\"],\"exe\":{\"url\":\"https://raw.githubusercontent.com/ccnavarro25-gif/siga-actualizacoes/main/computador/SIGA-Instalar-2.0.17.exe\",\"sha256\":\"abff9410b1de5d903f20daea9beeb56fd3426615a0e9688e08602653f3a9af81\",\"tamanho\":94023548}}",
+ "assinatura": "JsN8EKTfXDuBvyWezLeOlfHkT9Db0I2q2caqm7H1mFRXGsp3FlcKNcDwsbGvlet/jZIY1A3SBXRUnmbAIjGiDQ=="
 }
