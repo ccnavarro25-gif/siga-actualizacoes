@@ -1,4 +1,4 @@
 {
- "dados": "{\"app\":\"SIGA Eventos\",\"versao\":\"1.0.3\",\"data\":\"2026-11-25\",\"notas\":[\"12 modelos de recibo com QR para confirmar (Configuração › Modelo do recibo)\",\"Corrigido: a conta criada fica guardada e o programa deixa de pedir uma conta nova ao abrir\"],\"exe\":{\"url\":\"https://raw.githubusercontent.com/ccnavarro25-gif/siga-actualizacoes/main/computador/SIGA-Eventos-Instalar-1.0.3.exe\",\"sha256\":\"5750cdea1210d657a15da063398e7adb14eb4ca901d155d1c46e004d85221064\",\"tamanho\":92785613}}",
- "assinatura": "5r3JDNHmTV6JWEiOeqGyMyB+ExCPK8XzR9apTsfHYBx5pOlEQZY6l0NF8ev2ppxCbG4mlEYCFwe4Qsh/f1XdBQ=="
+ "dados": "{\"app\":\"SIGA Eventos\",\"versao\":\"1.0.3\",\"data\":\"2026-11-26\",\"notas\":[\"12 modelos de recibo com QR para confirmar (Configuração › Modelo do recibo)\",\"Corrigido: a conta criada fica guardada e o programa deixa de pedir uma conta nova ao abrir\"],\"exe\":{\"url\":\"https://raw.githubusercontent.com/ccnavarro25-gif/siga-actualizacoes/main/computador/SIGA-Eventos-Instalar-1.0.3.exe\",\"sha256\":\"5750cdea1210d657a15da063398e7adb14eb4ca901d155d1c46e004d85221064\",\"tamanho\":92785613}}",
+ "assinatura": "up7e9sB4jtnbBkEIBO9387ci1hhosGC6vRpe5dPDacUpSKimVJdgbYdwJyHpwA5HcP8tAUAWsKQVeY2ekuRdDg=="
 }
